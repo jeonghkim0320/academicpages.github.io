@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeonghyun Kim, Ph.D."
+  name             : "Jeonghyun Kim"
   avatar           : "profile.png"
   bio              : "Asst. Prof. in Biomechanics Lab, Nagoya Univ."
   location         : "Nagoya, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=1EoxZscAAAAJ&hl=ja"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Jeonghyun-Kim-9"
   uri              :
