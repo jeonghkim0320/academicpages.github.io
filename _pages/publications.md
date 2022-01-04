@@ -5,9 +5,33 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Peer-reviwed journals
 
+[13] Narintadeach Charoensombut, Kinyoshi Kawabata, **Jeonghyun Kim***, Minki Chang, Tsuyoshi Kimura, Akio Kishida, Takashi Ushida, Katsuko Furukawa* (2021). Internal radial perfusion bioreactor promotes decellularization and recellularization of rat uterine tissue, Journal of Bioscience and Bioengineering. In press.
 
-1. Jeonghyun Kim, Kevin Montagne, Takashi Ushida, Katsuko S Furukawa* (2015). Enhanced chondrogenesis with upregulation of PKR using a novel hydrostatic pressure bioreactor, Bioscience, Biotechnology, and Biochemistry. 79:2, 239-241.
+[12] **Jeonghyun Kim***, Hiroyuki Kigami, Taiji Adachi (2021). Comparative gene expression analysis for pre-osteoblast MC3T3-E1 cells under non-adhesive culture toward osteocyte differentiation, Journal of Bioscience and Bioengineering. 132 (6), 651-656.
+
+[11] **Jeonghyun Kim***, Taiji Adachi (2021). Cell-fate decision of mesenchymal stem cells toward osteocyte differentiation is committed by spheroid culture, Scientific Reports. 11, 13204.
+
+[10] **Jeonghyun Kim**, Taiji Adachi* (2021). Modulation of Sost expression by hypoxia in 3D scaffold-free osteocytic tissue, Tissue Engineering Part A. 27 (15-16) 1037-1043. 
+
+[9] **Jeonghyun Kim**, Keiichi Ishikawa, Junko Sunaga, Taiji Adachi* (2021). Uniaxially-fixed mechanical boundary condition elicits cellular alignment in collagen matrix with induction of osteogenesis, Scientific Reports. 11, 9009.
+
+[8] **Jeonghyun Kim**, Hiroyuki Kigami, Taiji Adachi* (2020). Characterization of self-organized osteocytic spheroids using mouse osteoblast-like cells, Journal of Biomechanical Science and Engineering.15(3), 20-00227. [Invited] [Selected as JBSE Papers of the Year & Graphics of the Year]
+
+[7] **Jeonghyun Kim**, Takashi Ushida, Kevin Montagne, Yasushi Hirota, Osamu Yoshino, Takehiro Hiraoka, Yutaka Osuga, Katsuko Furukawa* (2020). Acquired contractility ability in human endometrial stromal cells by passive loading of cyclic tensile stretch, Scientific Reports. 10, 9014.
+
+[6] Kinyoshi Kawabata, Narintadeach Charoensombut, **Jeonghyun Kim**, Tsuyoshi Kimura, Akio Kishida, Takashi Ushida, Katsuko Furukawa* (2020). Fabrication of extracellular matrix hydrogel derived from uterine tissues, Japanese Journal of Clinical Biomechanics. 41, 287-292.
+
+[5] **Jeonghyun Kim**, Taiji Adachi* (2019). Cell condensation triggers the differentiation of osteoblast precursor cells to osteocyte-like cells, Frontiers in Bioengineering and Biotechnology. 7, 288.
+
+[4] **Jeonghyun Kim**, Shu Takeda, Narintadeach Charoensombut, Kinyoshi Kawabata, Yugo Kishimoto, Tsuyoshi Kimura, Akio Kishida, Takashi Ushida, Katsuko Furukawa* (2019). Fabrication of uterine decellularized matrix using high hydrostatic pressure through depolymerization of actin filaments, Journal of Biomechanical Science and Engineering. 14(3), 19-00097. 
+
+[3] **Jeonghyun Kim**, Kevin Montagne, Hidetoshi Nemoto, Takashi Ushida, Katsuko Furukawa* (2017). Hypergravity down-regulates c-fos gene expression via ROCK/Rho-GTP and the PI3K signaling pathway in murine ATDC5 chondroprogenitor cells, PLOS ONE. 12(9): e0185394.
+
+[2] Kevin Montagne, Dongig Oh,  **Jeonghyun Kim**, Takashi Ushida, Katsuko S Furukawa* (2016). Involvement of the mTOR pathway in redifferentiation of bovine chondrocytes under dynamic hydrostatic loading, Japanese Journal of Clinical Biomechanics. 37:1-8. [selecteled as the Best Paper Award]
+
+[1] **Jeonghyun Kim**, Kevin Montagne, Takashi Ushida, Katsuko S Furukawa* (2015). Enhanced chondrogenesis with upregulation of PKR using a novel hydrostatic pressure bioreactor, Bioscience, Biotechnology, and Biochemistry. 79:2, 239-241.
 
 
 {% if author.googlescholar %}
