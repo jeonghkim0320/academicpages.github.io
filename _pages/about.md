@@ -12,7 +12,7 @@ Full name: **Jeonghyun KIM**
 
 Email: jkim@nagoya-u.jp
 
-# Eduation:
+### Eduation:
 
 **Ph.D. in Mechanical Engineering, The University of Tokyo** (2014 - 2017)
 
@@ -26,7 +26,7 @@ Email: jkim@nagoya-u.jp
 
 *Advisor: Prof. Qing Li*
 
-# Appointments:
+### Appointments:
 
 Assistant Professor, Biomechanics Laboratory, Department of Mechanical Systems Engineering, Nagoya University (Apr 2021 - present)
 
