@@ -9,9 +9,14 @@ redirect_from:
 ---
 
 Full name: Jeonghyun KIM
+
 Email: jkim@nagoya-u.jp
 
+Eduation:
 
+Ph.D. in Mechanical Engineering, The University of Tokyo (2014 - 2017)
+M.S. in Mechanical Engineering, The University of Tokyo (2012 - 2014)
+B.E. in Mechanical Engineering (Biomedical), The University of Sydney (2006 - 2009)
 
 For more info
 ------
