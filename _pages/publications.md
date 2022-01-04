@@ -5,7 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Peer-reviwed journals
+### Manuscripts waiting for publications
+
+[3] Yong Fan, Junfeng Wang, **Jeonghyun Kim**, Eijiro Maeda, Takeo Matsumoto* (2022). Dependency of the deformation of cell nucleus on stretch direction of tissue: Possible mechanotransduction pathway to anisotropic response of aortic media to hypertension, Scientific Reports, In submission. 
+
+[2] **Jeonghyun Kim***, Kosei Tomida, Takeo Matsumoto, Taiji Adachi (2022). In vitro chondrocyte spheroid culture drives early stage of endochondral ossification, Bone Reports, In submission.
+
+[1] **Jeonghyun Kim**, Junichi Sugiura, Takuto Hosokawa, Shukei Sugita, Eijiro Maeda, Takeo Matsumoto* (2022). Morphological changes in Aulacoseira under 3-point bending culture, Scientific Reports. In preparation.
+
+
+### Peer-reviewed journals
 
 [13] Narintadeach Charoensombut, Kinyoshi Kawabata, **Jeonghyun Kim***, Minki Chang, Tsuyoshi Kimura, Akio Kishida, Takashi Ushida, Katsuko Furukawa* (2021). Internal radial perfusion bioreactor promotes decellularization and recellularization of rat uterine tissue, Journal of Bioscience and Bioengineering. In press.
 
@@ -32,14 +41,3 @@ author_profile: true
 [2] Kevin Montagne, Dongig Oh,  **Jeonghyun Kim**, Takashi Ushida, Katsuko S Furukawa* (2016). Involvement of the mTOR pathway in redifferentiation of bovine chondrocytes under dynamic hydrostatic loading, Japanese Journal of Clinical Biomechanics. 37:1-8. [selecteled as the Best Paper Award]
 
 [1] **Jeonghyun Kim**, Kevin Montagne, Takashi Ushida, Katsuko S Furukawa* (2015). Enhanced chondrogenesis with upregulation of PKR using a novel hydrostatic pressure bioreactor, Bioscience, Biotechnology, and Biochemistry. 79:2, 239-241.
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
