@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Full name: Jeonghyun KIM
+Full name: **Jeonghyun KIM**
 
 Email: jkim@nagoya-u.jp
 
 Eduation:
 
-Ph.D. in Mechanical Engineering, The University of Tokyo (2014 - 2017)
+**Ph.D. in Mechanical Engineering, The University of Tokyo** (2014 - 2017)
 
 *Advisor: Prof. Takashi Ushida & Assoc. Prof. Katsuko Furukawa*
 
-M.S. in Mechanical Engineering, The University of Tokyo (2012 - 2014)
+**M.S. in Mechanical Engineering, The University of Tokyo** (2012 - 2014)
 
 *Advisor: Prof. Takashi Ushida & Assoc. Prof. Katsuko Furukawa**
 
-B.E. in Mechanical Engineering (Biomedical), The University of Sydney (2006 - 2010)
+**B.E. in Mechanical Engineering (Biomedical), The University of Sydney** (2006 - 2010)
 
 *Advisor: Prof. Qing Li*
 
