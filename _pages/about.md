@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Full name: **Jeonghyun KIM**
+Full name: Jeonghyun KIM
 
 Email: jkim@nagoya-u.jp
 
