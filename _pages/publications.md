@@ -41,3 +41,9 @@ author_profile: true
 [2] Kevin Montagne, Dongig Oh,  **Jeonghyun Kim**, Takashi Ushida, Katsuko S Furukawa* (2016). Involvement of the mTOR pathway in redifferentiation of bovine chondrocytes under dynamic hydrostatic loading, Japanese Journal of Clinical Biomechanics. 37:1-8. [selecteled as the Best Paper Award]
 
 [1] **Jeonghyun Kim**, Kevin Montagne, Takashi Ushida, Katsuko S Furukawa* (2015). Enhanced chondrogenesis with upregulation of PKR using a novel hydrostatic pressure bioreactor, Bioscience, Biotechnology, and Biochemistry. 79:2, 239-241.
+
+
+### International conference papers
+
+[1] **Jeonghyun Kim**, Taiji Adachi* (2021). Three-dimensional culture technology: Self-organized spheroid culture drives osteocytogenesis, 2021 IEEE 3rd Global Conference on Life Sciences and Technologies (LifeTech), Nara, Japan, 329 – 330.
+
