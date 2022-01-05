@@ -48,3 +48,6 @@ author_profile: true
 [1] **Jeonghyun Kim**, Taiji Adachi* (2021). Three-dimensional culture technology: Self-organized spheroid culture drives osteocytogenesis, 2021 IEEE 3rd Global Conference on Life Sciences and Technologies (LifeTech), Nara, Japan, 329 – 330.
 
 ### Book Chapter
+
+-
+
