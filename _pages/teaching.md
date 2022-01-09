@@ -22,9 +22,3 @@ author_profile: true
 ⋅⋅* The Best Paper Award from Japanese Journal of Clinical Biomechanics (Oct 2016)
 
 ⋅⋅* The Honours degree (B.Eng.) from the University of Sydney (Feb 2010)
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
