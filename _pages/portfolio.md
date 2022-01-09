@@ -34,12 +34,3 @@ Grant for Biomedical Engineering Research (Encouragement of Research)
 
 ⋅⋅* The Japanese Government (MEXT) Scholarship (Oct 2012 – Sep 2014)
 
-
-
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
