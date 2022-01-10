@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards and Academic Achievements"
-permalink: /teaching/
+permalink: /awards/
 author_profile: true
 ---
 
