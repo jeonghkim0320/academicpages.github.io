@@ -7,53 +7,30 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Full name: Jeonghyun KIM
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Email: jkim@nagoya-u.jp
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Eduation:
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Ph.D. in Mechanical Engineering, The University of Tokyo** (2014 - 2017)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*Advisor: Prof. Takashi Ushida & Assoc. Prof. Katsuko Furukawa*
+
+**M.S. in Mechanical Engineering, The University of Tokyo** (2012 - 2014)
+
+*Advisor: Prof. Takashi Ushida & Assoc. Prof. Katsuko Furukawa*
+
+**B.E. in Mechanical Engineering (Biomedical), The University of Sydney** (2006 - 2010)
+
+*Advisor: Prof. Qing Li*
+
+### Appointments:
+
+**Assistant Professor**, Biomechanics Laboratory, Department of Mechanical Systems Engineering, Nagoya University, Japan (Apr 2021 - present)
+
+**Postdoctral Fellow**, Laboratory of Biomechanics (PI: Prof. Taiji Adachi), Institute for Frontier Life and Medical Sciences, Kyoto University, Japan (Nov 2018 - Mar 2021)
+
+**Postdoctral Fellow**, Laboratory of Regenerative Medical Engineering (PI: Prof. Takashi Ushida), Department of Bioengineering, The University of Tokyo, Japan (Oct 2017 - Oct 2018)
+
+**Visiting Scholar**, Center for Single Molecule Biophysics (PI: Prof. Frederick Sachs), Department of Physiology and Biophysics Science, The State University of New York at Buffalo, USA (Jan 2016 – Mar 2016)
