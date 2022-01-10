@@ -2,15 +2,15 @@
 main:
    - title: "CV"
     url: /cv/
- 
+    
+   - title: "Awards"
+    url: /awards/   
+    
  - title: "Publications"
     url: /publications/
 
   - title: "Conferences"
     url: /conferences/    
-
-  - title: "Awards"
-    url: /awards/    
     
   - title: "Grants"
     url: /grants/
