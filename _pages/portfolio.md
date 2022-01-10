@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Grants and Fellowships"
-permalink: /portfolio/
+permalink: /grants/
 author_profile: true
 ---
 
