@@ -7,7 +7,7 @@ author_profile: true
 
 ### Awards and Academic Achievements
 
-- The Outstanding Student Presentation, the 32nd Biofrontier Conference (Jan 2022)
+- The Outstanding Student Presentation Award, the 32nd Biofrontier Conference (Jan 2022)
       (Saito, R., Ninomiya, H., Kim, J., Maeda, E., Tamura, A., Matsumoto, T.)
 
 - The Outstanding Abstract Award Runner-up, the 11th Asian-Pacific Conference on Biomechanics (Dec 2021)
